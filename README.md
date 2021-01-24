@@ -11,7 +11,7 @@
   <br>
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=alaeddinemessadi&show_icons=true&line_height=45&include_all_commits=true" />  <img src="https://github-readme-stackoverflow.vercel.app/?userID=2954930"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=alaeddinemessadi&show_icons=true&theme=radical&line_height=45&include_all_commits=true" />  <img src="https://github-readme-stackoverflow.vercel.app/?userID=2954930"  />
   <br>
   <br>
   <br>
