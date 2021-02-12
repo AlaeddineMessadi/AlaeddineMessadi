@@ -6,7 +6,7 @@
   
   # Hello, world! 👋
 
-  #### You can find me on, Let's Connect 🔗:
+  #### You can find me on :
   [![](https://img.shields.io/badge/Website-%230077B5.svg?&style=for-the-badge&logo=hotjar&color=9cf)](https://almessadi.com) - [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/alaeddinemessadi/?locale=en_US) - [![](https://img.shields.io/badge/stackoverflow-%230077B5.svg?&style=for-the-badge&logo=stackoverflow&color=lightgray)](https://stackoverflow.com/users/2954930/alaeddine) - [![](https://img.shields.io/badge/dribbble-%230077B5.svg?&style=for-the-badge&logo=dribbble&color=ff69b4)](https://dribbble.com/aladdindev) - [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter)](https://twitter.com/aladdindev) - [![](https://img.shields.io/badge/email-%230077B5.svg?&style=for-the-badge&logo=gmail&color=55688A)](mailto:alaeddine.messadi@gmail.com)
   <br>
   <br>
