@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
+  <img src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif" width="400px" />
   <br>
   
   # Hello, world! 👋
