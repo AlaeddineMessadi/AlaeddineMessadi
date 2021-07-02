@@ -14,9 +14,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=alaeddinemessadi&show_icons=true&theme=dracula&line_height=45&include_all_commits=true" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github-readme-stackoverflow.vercel.app/?userID=2954930"  />
   <br>
   <br>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alaeddinemessadi)](https://github.com/alaeddinemessadi)
-  <br>
   <br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=alaeddinemessadi" alt="visitor badge"/>
   <br>
